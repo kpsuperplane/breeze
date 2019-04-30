@@ -1,0 +1,4 @@
+(executable
+  (name Breeze)
+  (public_name Breeze)
+  (libraries lib core))
